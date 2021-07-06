@@ -191,7 +191,7 @@ header #menu-bar{
 .about .image{
     flex:1 1 40rem;
     height:50rem;
-    background:url(../images/about-frame-img.png), url(../images/about-img.jpg) no-repeat;
+    background:url(images/about-frame-img.png), url(images/about-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-blend-mode: screen;
@@ -284,7 +284,7 @@ header #menu-bar{
 }
 
 .popular{
-    background:linear-gradient(rgba(255,255,255,.7),rgba(255,255,255,.7)), url(../images/popular-bg.jpg) no-repeat;
+    background:linear-gradient(rgba(255,255,255,.7),rgba(255,255,255,.7)), url(images/popular-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
